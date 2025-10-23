@@ -25,14 +25,6 @@ I'm a passionate **Frontend Developer** and **React Enthusiast** from India. Cur
 
 ---
 
-## 📈 GitHub Stats
-
-![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshitshrivas&show_icons=true&hide_title=true&count_private=true&theme=radical&hide=C++)
-
-
----
-
-
 
 ## 🌱 Currently Learning
 
