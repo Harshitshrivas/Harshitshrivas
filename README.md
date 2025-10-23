@@ -2,7 +2,7 @@
 
 I'm a passionate **Frontend Developer** and **React Enthusiast** from India. Currently, I'm diving deep into **React**, **UI/UX Design**, and **JavaScript** to build intuitive and responsive web applications.
 
-![Profile Views](https://komarev.com/ghpvc/?username=Harshitshrivas&color=blueviolet)
+
 
 ---
 
@@ -27,7 +27,8 @@ I'm a passionate **Frontend Developer** and **React Enthusiast** from India. Cur
 
 ## 📈 GitHub Stats
 
-![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshitshrivas&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshitshrivas&show_icons=true&hide_title=true&count_private=true&theme=radical&hide=C++)
+
 
 ---
 
