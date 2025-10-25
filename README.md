@@ -11,14 +11,14 @@ I'm a passionate **Frontend Developer** and **React Enthusiast** from India. Cur
 - 🔭 I’m currently working on building scalable and user-friendly interfaces using React.
 - 🌱 I’m constantly learning and exploring new technologies in the frontend ecosystem.
 - 💬 Ask me about **React**, **CSS**, **JavaScript**, and **UI/UX Design**.
-- 📫 Reach me at: [harshitshrivastava111@gmail.com](mailto:harshitshrivastava111@gmail.com)
+- 📫 Reach me at: [harshitshrivastava111@gmail.com](mailto:harshitshrivas88@gmail.com)
 - ⚡ Fun fact: I enjoy solving complex problems and turning them into simple, elegant solutions.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: JavaScript (ES6+), HTML5, CSS3
+- **Languages**: JavaScript (ES6+), Java, HTML5, CSS3
 - **Frontend**: React.js, Tailwind CSS, Bootstrap
 - **Version Control**: Git, GitHub
 - **Tools**: VS Code, Figma, Postman
