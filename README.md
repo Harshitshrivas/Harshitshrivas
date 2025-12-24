@@ -35,9 +35,7 @@ I'm a passionate **Frontend Developer** and **React Enthusiast** from India. Cur
 
 ---
 
-## 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitshrivas&layout=compact)
 
 ---
 ## 📫 Let's Connect
